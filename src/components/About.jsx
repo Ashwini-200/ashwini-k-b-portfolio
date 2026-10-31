@@ -63,7 +63,7 @@ export default function About() {
                 <div className="relative flex-1 w-full overflow-hidden px-3 pb-3">
                   <img
                     src={profilePic}
-                    alt={personalInfo.name}
+                    alt="Ashwini K B — Python Full Stack developer, TAP Academy student"
                     className="w-full h-full object-cover rounded-xl"
                   />
                   <div className="absolute bottom-5 left-5 right-5 bg-black/80 backdrop-blur-md rounded-lg p-2.5 text-center border border-white/10">
