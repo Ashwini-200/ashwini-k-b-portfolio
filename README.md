@@ -2,7 +2,7 @@
 
 A high-performance, single-page developer portfolio showcasing full-stack engineering and data-driven applications.
 
-**Live site:** [https://YOUR-SITE-URL/](https://YOUR-SITE-URL/)
+**Live site:** [https://myportfolio-cyan-pi-26.vercel.app/](https://myportfolio-cyan-pi-26.vercel.app/)
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
