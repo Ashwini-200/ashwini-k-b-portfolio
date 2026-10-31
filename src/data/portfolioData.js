@@ -55,7 +55,7 @@ export const introVideo = {
   badge: "Meet Me",
   heading: "Watch My Introduction",
   description: "Get to know more about my background, technical journey, and development philosophy.",
-  youtubeUrl: "https://youtu.be/tdVTM2Wh7rM",
+  youtubeUrl: "https://youtu.be/HD2IX-iCsWU",
 };
 
 export const skillsContent = {
