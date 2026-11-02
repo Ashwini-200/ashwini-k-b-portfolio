@@ -27,7 +27,7 @@ export const academy = {
 
 export const socialLinks = {
   github: "https://github.com/Ashwini-200",
-  linkedin: "https://www.linkedin.com/in/ashwini-k-b",
+  linkedin: "https://www.linkedin.com/in/ashwini-k-b-60a88a218/",
   instagram: "",
 };
 
@@ -239,7 +239,7 @@ export const certificates = {
     { name: "Domain Training Program in Python with AI", issuer: "AMC & Zestech", icon: "🤖" },
     { name: "Research Paper Publication", issuer: "IEEE ICKES 2022", icon: "📄" },
   ],
-  viewAllUrl: "https://www.linkedin.com/in/ashwini-k-b",
+  viewAllUrl: "https://www.linkedin.com/in/ashwini-k-b-60a88a218/",
 };
 
 export const education = {

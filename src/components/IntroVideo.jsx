@@ -64,9 +64,8 @@ export default function IntroVideo() {
           whileInView={{ opacity: 1, y: 0, scale: 1 }}
           viewport={{ once: true, amount: 0.3 }}
           transition={{ duration: 0.8 }}
-          className={`relative rounded-3xl overflow-hidden border-4 border-[#ff2a2a] shadow-[0_30px_80px_rgba(255,42,42,0.25)] bg-black ${
-            isShorts ? 'aspect-[9/16] max-w-sm mx-auto' : 'aspect-video max-w-4xl mx-auto'
-          }`}
+          className={`relative rounded-3xl overflow-hidden border-4 border-[#ff2a2a] shadow-[0_30px_80px_rgba(255,42,42,0.25)] bg-black ${isShorts ? 'aspect-[9/16] max-w-sm mx-auto' : 'aspect-video max-w-4xl mx-auto'
+            }`}
         >
           {!isPlaying ? (
             <div className="relative w-full h-full flex items-center justify-center group">
